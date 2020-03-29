@@ -1,5 +1,5 @@
 def map(array)
   newarray = []
   count = 0
-  while count < 
+  while count < array.length
 # Your Code Here
