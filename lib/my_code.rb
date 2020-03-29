@@ -9,6 +9,6 @@ def my_own_map(yolo)
 end
 
 
-def my_own_reduce(yer)
+def my_own_reduce(yer, yuh=0)
   
 end
