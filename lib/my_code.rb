@@ -14,9 +14,10 @@ def my_own_reduce(t, startpt=nil)
     total = startpt
     count = 0
   else 
-    total = startpt[0]
+    total = t[0]
     count = 1
   end
+  while count < sta
     
   
 end
