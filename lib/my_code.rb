@@ -9,7 +9,7 @@ def my_own_map(yolo)
 end
 
 
-def my_own_reduce(t, startpt=nil)
+def my_own_reduce(arr, startpt=nil)
   if startpt
     total = startpt
     count = 0
@@ -17,7 +17,7 @@ def my_own_reduce(t, startpt=nil)
     total = t[0]
     count = 1
   end
-  while count < sta
+  while count < t.length
     
   
 end
