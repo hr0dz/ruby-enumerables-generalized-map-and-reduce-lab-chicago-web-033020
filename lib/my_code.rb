@@ -19,6 +19,9 @@ def my_own_reduce(arr, startpt=nil)
   end
   while count < arr.length
   total = yield(total, arr[count])
+  count += 1
+end
+total
     
   
 end
