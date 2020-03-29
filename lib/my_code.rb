@@ -4,4 +4,4 @@ def map(array)
   while count < array.length
     newarray.push(yield[count]array)
   end
-# Your Code Here
+end
