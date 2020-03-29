@@ -20,6 +20,6 @@ def reduce(arr, startpt=nil)
     while count < arr.length
     total = yield(total, arr[count])
   count += 1
-end
+  end
 total
 end
