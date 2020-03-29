@@ -18,6 +18,7 @@ def my_own_reduce(arr, startpt=nil)
     count = 1
   end
   while count < arr.length
+  total = yield(total, arr[count])
     
   
 end
