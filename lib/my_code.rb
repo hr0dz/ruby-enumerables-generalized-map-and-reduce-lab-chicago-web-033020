@@ -16,6 +16,7 @@ def my_own_reduce(t, startpt=nil)
   else 
     total = startpt[0]
     count = 1
+  end
     
   
 end
