@@ -11,8 +11,8 @@ end
 
 def reduce(arr, startpt=nil)
   if startpt
-    total = startpt
-    count = 0
+   total = startpt
+  count = 0
   else 
     total = arr[0]
     count = 1
