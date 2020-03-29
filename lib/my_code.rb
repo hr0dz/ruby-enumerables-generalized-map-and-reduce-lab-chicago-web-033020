@@ -7,3 +7,6 @@ def my_own_map(yolo)
   end
   newarray
 end
+
+
+def my_own_reduce(yerrr)
