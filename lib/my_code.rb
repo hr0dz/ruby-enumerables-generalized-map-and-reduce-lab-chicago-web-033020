@@ -9,7 +9,7 @@ def map(yolo)
 end
 
 
-def my_own_reduce(arr, startpt=nil)
+def reduce(arr, startpt=nil)
   if startpt
     total = startpt
     count = 0
