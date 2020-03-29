@@ -9,4 +9,4 @@ def my_own_map(yolo)
 end
 
 
-def my_own_reduce(yerrr)
+def my_own_reduce(yer)
