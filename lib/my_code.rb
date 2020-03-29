@@ -1,4 +1,4 @@
-def my_own_map(yolo)
+def map(yolo)
   newarray = []
   count = 0
   while count < yolo.length
