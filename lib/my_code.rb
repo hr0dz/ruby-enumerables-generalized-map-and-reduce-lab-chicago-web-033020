@@ -11,5 +11,6 @@ end
 
 def my_own_reduce(t, startpt)
   if startpt
+    total = startpt
   
 end
