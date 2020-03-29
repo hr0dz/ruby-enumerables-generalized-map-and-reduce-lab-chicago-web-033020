@@ -22,5 +22,4 @@ def my_own_reduce(arr, startpt=nil)
   count += 1
 end
 total
-  
 end
