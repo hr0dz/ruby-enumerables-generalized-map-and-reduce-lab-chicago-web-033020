@@ -9,6 +9,6 @@ def my_own_map(yolo)
 end
 
 
-def my_own_reduce(tot, startpt)
+def my_own_reduce(t, startpt)
   
 end
