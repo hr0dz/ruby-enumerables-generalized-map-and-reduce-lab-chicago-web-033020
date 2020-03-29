@@ -14,7 +14,7 @@ def my_own_reduce(arr, startpt=nil)
     total = startpt
     count = 0
   else 
-    total = t[0]
+    total = arr[0]
     count = 1
   end
   while count < t.length
