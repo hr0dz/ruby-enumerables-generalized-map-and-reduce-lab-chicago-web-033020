@@ -1,3 +1,3 @@
-def map
+def map()
 
 # Your Code Here
