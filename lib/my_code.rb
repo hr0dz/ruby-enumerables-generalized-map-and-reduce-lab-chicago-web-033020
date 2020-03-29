@@ -5,4 +5,5 @@ def map(yolo)
     newarray.push(yield(yolo[count]))
     count += 1
   end
+  newarray
 end
