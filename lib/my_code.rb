@@ -10,5 +10,6 @@ end
 
 
 def my_own_reduce(t, startpt)
+  if startpt
   
 end
