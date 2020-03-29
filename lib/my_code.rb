@@ -1,4 +1,4 @@
-def map(array)
+def map(yolo)
   newarray = []
   count = 0
   while count < array.length
