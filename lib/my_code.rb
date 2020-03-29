@@ -10,3 +10,4 @@ end
 
 
 def my_own_reduce(yer)
+end
